@@ -7,7 +7,7 @@ ini_set('display_errors', 1);
 $host = 'localhost';
 $dbname = 'short_url_db';
 $user = 'root';
-$pass = 'Libraries.1993';
+$pass = '***';
 
 // Database connection
 try {
